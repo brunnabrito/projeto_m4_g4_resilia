@@ -3,12 +3,16 @@
 
 Projeto de encerramento de módulo do curso Data Analytics, da EdTech Resilia,
 ministrado por Marisa Silva e Tais Cunha.
+
+
 ## Autores
 
 - [@Brunna_Brito](https://github.com/brunnabrito)
 - [@Gabriel_Kanarski](https://github.com/GKCSV)
 - [@Samyr_Ozibel](https://github.com/ozibel)
 - [@Vinicius_Souto](https://github.com/ViniciusCostaSouto)
+
+
 ## Introdução
 
 Este projeto visa o aferimento do desempenho dos integrantes acerca de **Análise 
@@ -16,6 +20,8 @@ exploratória de dados.**
 
 O projeto proposto engloba questões de banco de dados. Estão presentes: coleta de dados, preparação e limpeza dos dados
 e análise exploratória.
+
+
 ## Problema proposto
 
 Realizar uma análise exploratória relacionada à série histórica de preço de venda da
@@ -33,67 +39,42 @@ As perguntas a serem respondidas são:
 8. Qual a região que possui o menor valor médio do etanol?
 9. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
 10. Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
+
+
 ## Estrutura
 
 O projeto está estruturado da seguinte maneira:
 
-**1. Entendendo os Dados**
-- 1.1. Importando Bibliotecas
-- 1.2. Coletando Dados iniciais
-- 1.3. Unindo os Dataset's
-- 1.4. Descrevendo os Dados
+**1. Apresentação da Equipe [G4].**
 
-**2. Preparação e limpeza dos Dados**
-- 2.1. Selecionando os Dados necessários
-- 2.2. Integração dos Dados
-- 2.3. Convertendo valores
-- 2.4. Estatísticas Descritivas
-- 2.5. Correlação dos Dados
+**2. Apresentação da proposta do projeto [G4].**
 
-**3. Análise Exploratória**
-- 3.1. Respostas às perguntas propostas/elaboradas
+**3. Entendendo os Dados**
+- 3.1. Importando Bibliotecas;
+- 3.2. Coletando Dados iniciais;
+- 3.3. Unindo os Dataset's;
+- 3.4. Descrevendo os Dados.
 
-**4. Conclusão**
-## Aprendizados
+**4. Preparação e limpeza dos Dados**
+- 4.1. Selecionando os Dados necessários;
+- 4.2. Integração dos Dados;
+- 4.3. Convertendo valores;
+- 4.4. Estatísticas Descritivas;
+- 4.5. Correlação dos Dados.
 
-Debate em equipe para declaração do aprendizado.
+**5. Análise Exploratória**
+- 5.1. Perguntas propostas/elaboradas, devidamente respondidas e representadas; integrante 01.
+- 5.2. Perguntas propostas/elaboradas, devidamente respondidas e representadas; integrante 02.
+- 5.3. Perguntas propostas/elaboradas, devidamente respondidas e representadas; integrante 03.
+- 5.4. Perguntas propostas/elaboradas, devidamente respondidas e representadas; integrante 04.
+- 5.5. Perguntas propostas/elaboradas, devidamente respondidas e representadas; integrante 05.
 
-Além disso, verificar a necessidade/usabilidade dos subtítulos abaixo:
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Rodando os testes
-
-Para rodar os testes, rode o seguinte comando
-
-```bash
-  npm run test
-```
-
-
-## Uso/Exemplos
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Usado por
-
-Esse projeto é usado pelas seguintes empresas:
-
-- Empresa 1
-- Empresa 2
+**6. Conclusão**
 
 
 ## Referência
 
+ - [Ferramenta Readme.so](https://readme.so/)
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
